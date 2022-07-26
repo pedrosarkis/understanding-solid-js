@@ -1,0 +1,13 @@
+{
+  "name": "rafagan",
+  "version": "1.0.0",
+  "description": "SOLID - Robert C. Martin",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
